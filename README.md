@@ -1,6 +1,6 @@
 # Clone da tela inicial do Instagrma
 Recriando a página de login do Instagram. 
-Projeto desenvolvido seguindo tutoria do DIO - Digital Innovation One.
+Projeto desenvolvido seguindo tutorial do DIO - Digital Innovation One.
 
 ![image](https://user-images.githubusercontent.com/87051404/203878045-f051032f-f8ef-49f6-87f5-48b64bc0985e.png)
 
